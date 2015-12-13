@@ -2,3 +2,4 @@
 * Update footer
 * Polish responsive layout
 * Fix hero section
+* Polish footer
