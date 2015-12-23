@@ -10,3 +10,4 @@ A static blog engine with markdown posts.
 - 2015-11-22: fix hero section
 - 2015-12-13: polish footer
 - 2015-12-22: rework pricing table
+- 2015-12-23: update blog post template
