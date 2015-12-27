@@ -4,3 +4,4 @@
 * Fix hero section
 * Polish footer
 * Rework pricing table
+* Add footer
