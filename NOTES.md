@@ -5,3 +5,4 @@
 * Polish footer
 * Rework pricing table
 * Add footer
+* Add blog post template
