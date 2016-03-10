@@ -6,3 +6,4 @@
 * Rework pricing table
 * Add footer
 * Add blog post template
+* Fix contact form
