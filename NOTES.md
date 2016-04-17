@@ -8,3 +8,4 @@
 * Add blog post template
 * Fix contact form
 * Fix dark mode
+* Rework RSS feed

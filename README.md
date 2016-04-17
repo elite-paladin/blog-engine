@@ -16,3 +16,4 @@ A static blog engine with markdown posts.
 - 2016-03-09: fix contact form
 - 2016-03-16: implement responsive layout
 - 2016-04-07: fix dark mode
+- 2016-04-17: rework rss feed
