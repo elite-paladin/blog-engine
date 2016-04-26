@@ -9,3 +9,4 @@
 * Fix contact form
 * Fix dark mode
 * Rework RSS feed
+* Rework nav bar
