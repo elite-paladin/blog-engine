@@ -18,3 +18,4 @@ A static blog engine with markdown posts.
 - 2016-04-07: fix dark mode
 - 2016-04-17: rework rss feed
 - 2016-04-26: rework nav bar
+- 2016-06-08: improve nav bar
