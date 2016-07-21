@@ -10,3 +10,4 @@
 * Fix dark mode
 * Rework RSS feed
 * Rework nav bar
+* Implement signup flow
