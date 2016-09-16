@@ -12,3 +12,4 @@
 * Rework nav bar
 * Implement signup flow
 * Refactor footer
+* Polish cart UI

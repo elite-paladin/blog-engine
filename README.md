@@ -21,3 +21,4 @@ A static blog engine with markdown posts.
 - 2016-06-08: improve nav bar
 - 2016-07-20: implement signup flow
 - 2016-08-22: refactor footer
+- 2016-09-15: polish cart ui
