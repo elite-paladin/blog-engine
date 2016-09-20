@@ -22,3 +22,4 @@ A static blog engine with markdown posts.
 - 2016-07-20: implement signup flow
 - 2016-08-22: refactor footer
 - 2016-09-15: polish cart ui
+- 2016-09-20: refactor checkout page
