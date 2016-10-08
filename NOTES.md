@@ -13,3 +13,4 @@
 * Implement signup flow
 * Refactor footer
 * Polish cart UI
+* Simplify RSS feed
