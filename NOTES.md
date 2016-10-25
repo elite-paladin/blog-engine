@@ -14,3 +14,4 @@
 * Refactor footer
 * Polish cart UI
 * Simplify RSS feed
+* Fix signup flow
