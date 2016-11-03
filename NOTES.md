@@ -15,3 +15,4 @@
 * Polish cart UI
 * Simplify RSS feed
 * Fix signup flow
+* Document pricing table

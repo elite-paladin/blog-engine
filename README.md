@@ -25,3 +25,4 @@ A static blog engine with markdown posts.
 - 2016-09-20: refactor checkout page
 - 2016-10-07: simplify rss feed
 - 2016-10-25: fix signup flow
+- 2016-11-03: document pricing table
