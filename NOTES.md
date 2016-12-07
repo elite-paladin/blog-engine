@@ -16,3 +16,4 @@
 * Simplify RSS feed
 * Fix signup flow
 * Document pricing table
+* Fix nav bar

@@ -27,3 +27,4 @@ A static blog engine with markdown posts.
 - 2016-10-25: fix signup flow
 - 2016-11-03: document pricing table
 - 2016-11-14: handle dark mode
+- 2016-12-07: fix nav bar
