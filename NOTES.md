@@ -17,3 +17,4 @@
 * Fix signup flow
 * Document pricing table
 * Fix nav bar
+* Handle dark mode
