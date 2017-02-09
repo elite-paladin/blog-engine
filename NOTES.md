@@ -18,3 +18,4 @@
 * Document pricing table
 * Fix nav bar
 * Handle dark mode
+* Update hero section
