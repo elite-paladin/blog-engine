@@ -30,3 +30,4 @@ A static blog engine with markdown posts.
 - 2016-12-07: fix nav bar
 - 2017-02-04: handle dark mode
 - 2017-02-09: update hero section
+- 2017-02-11: refactor hero section
