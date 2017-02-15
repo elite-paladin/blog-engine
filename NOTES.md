@@ -19,3 +19,4 @@
 * Fix nav bar
 * Handle dark mode
 * Update hero section
+* Add pricing table

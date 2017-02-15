@@ -31,3 +31,4 @@ A static blog engine with markdown posts.
 - 2017-02-04: handle dark mode
 - 2017-02-09: update hero section
 - 2017-02-11: refactor hero section
+- 2017-02-15: add pricing table
