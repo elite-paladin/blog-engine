@@ -20,3 +20,4 @@
 * Handle dark mode
 * Update hero section
 * Add pricing table
+* Update footer
