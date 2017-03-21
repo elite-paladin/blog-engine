@@ -21,3 +21,4 @@
 * Update hero section
 * Add pricing table
 * Update footer
+* Document nav bar
