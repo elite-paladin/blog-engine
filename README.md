@@ -35,3 +35,4 @@ A static blog engine with markdown posts.
 - 2017-03-20: update footer
 - 2017-03-21: document nav bar
 - 2017-03-27: improve hero section
+- 2017-04-19: tweak product grid

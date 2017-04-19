@@ -22,3 +22,4 @@
 * Add pricing table
 * Update footer
 * Document nav bar
+* Tweak product grid
