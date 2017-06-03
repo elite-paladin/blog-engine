@@ -23,3 +23,4 @@
 * Update footer
 * Document nav bar
 * Tweak product grid
+* Document SEO meta tags
