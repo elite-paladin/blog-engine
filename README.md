@@ -37,3 +37,4 @@ A static blog engine with markdown posts.
 - 2017-03-27: improve hero section
 - 2017-04-19: tweak product grid
 - 2017-06-03: document seo meta tags
+- 2017-06-22: extend blog post template

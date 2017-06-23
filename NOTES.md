@@ -24,3 +24,4 @@
 * Document nav bar
 * Tweak product grid
 * Document SEO meta tags
+* Extend blog post template
