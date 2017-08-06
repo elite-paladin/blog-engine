@@ -25,3 +25,4 @@
 * Tweak product grid
 * Document SEO meta tags
 * Extend blog post template
+* Polish hero section

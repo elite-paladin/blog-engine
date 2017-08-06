@@ -39,3 +39,4 @@ A static blog engine with markdown posts.
 - 2017-06-03: document seo meta tags
 - 2017-06-22: extend blog post template
 - 2017-06-23: update footer
+- 2017-08-05: polish hero section
