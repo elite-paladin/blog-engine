@@ -27,3 +27,4 @@
 * Extend blog post template
 * Polish hero section
 * Implement RSS feed
+* Simplify responsive layout
