@@ -43,3 +43,4 @@ A static blog engine with markdown posts.
 - 2017-08-19: implement rss feed
 - 2017-08-23: simplify responsive layout
 - 2017-09-10: polish dark mode
+- 2017-09-18: improve checkout page

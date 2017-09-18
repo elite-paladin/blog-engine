@@ -28,3 +28,4 @@
 * Polish hero section
 * Implement RSS feed
 * Simplify responsive layout
+* Improve checkout page
