@@ -29,3 +29,4 @@
 * Implement RSS feed
 * Simplify responsive layout
 * Improve checkout page
+* Improve SEO meta tags
