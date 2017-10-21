@@ -30,3 +30,4 @@
 * Simplify responsive layout
 * Improve checkout page
 * Improve SEO meta tags
+* Rework blog post template

@@ -45,3 +45,4 @@ A static blog engine with markdown posts.
 - 2017-09-10: polish dark mode
 - 2017-09-18: improve checkout page
 - 2017-10-19: improve seo meta tags
+- 2017-10-21: rework blog post template
