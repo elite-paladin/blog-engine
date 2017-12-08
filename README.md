@@ -46,3 +46,4 @@ A static blog engine with markdown posts.
 - 2017-09-18: improve checkout page
 - 2017-10-19: improve seo meta tags
 - 2017-10-21: rework blog post template
+- 2017-12-08: polish pricing table
