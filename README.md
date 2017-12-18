@@ -48,3 +48,4 @@ A static blog engine with markdown posts.
 - 2017-10-21: rework blog post template
 - 2017-12-08: polish pricing table
 - 2017-12-17: fix cart ui
+- 2017-12-18: refactor blog post template

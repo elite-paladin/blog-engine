@@ -32,3 +32,4 @@
 * Improve SEO meta tags
 * Rework blog post template
 * Fix cart UI
+* Refactor blog post template
