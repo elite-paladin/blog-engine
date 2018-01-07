@@ -50,3 +50,4 @@ A static blog engine with markdown posts.
 - 2017-12-17: fix cart ui
 - 2017-12-18: refactor blog post template
 - 2018-01-03: clean up blog post template
+- 2018-01-06: implement blog post template
