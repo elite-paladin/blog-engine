@@ -35,3 +35,4 @@
 * Refactor blog post template
 * Clean up blog post template
 * Fix checkout page
+* Fix pricing table
