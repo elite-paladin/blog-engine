@@ -36,3 +36,4 @@
 * Clean up blog post template
 * Fix checkout page
 * Fix pricing table
+* Fix SEO meta tags

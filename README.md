@@ -53,3 +53,4 @@ A static blog engine with markdown posts.
 - 2018-01-06: implement blog post template
 - 2018-02-05: fix checkout page
 - 2018-02-08: fix pricing table
+- 2018-02-22: fix seo meta tags
