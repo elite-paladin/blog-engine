@@ -37,3 +37,4 @@
 * Fix checkout page
 * Fix pricing table
 * Fix SEO meta tags
+* Handle footer
