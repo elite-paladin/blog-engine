@@ -38,3 +38,4 @@
 * Fix pricing table
 * Fix SEO meta tags
 * Handle footer
+* Improve RSS feed
