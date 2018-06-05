@@ -57,3 +57,4 @@ A static blog engine with markdown posts.
 - 2018-03-09: document pricing table
 - 2018-04-10: handle footer
 - 2018-04-28: improve rss feed
+- 2018-06-05: add pricing table

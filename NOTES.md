@@ -39,3 +39,4 @@
 * Fix SEO meta tags
 * Handle footer
 * Improve RSS feed
+* Add pricing table
