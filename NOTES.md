@@ -40,3 +40,4 @@
 * Handle footer
 * Improve RSS feed
 * Add pricing table
+* Polish responsive layout
