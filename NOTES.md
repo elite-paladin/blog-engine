@@ -41,3 +41,4 @@
 * Improve RSS feed
 * Add pricing table
 * Polish responsive layout
+* Implement nav bar

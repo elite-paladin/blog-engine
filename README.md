@@ -60,3 +60,4 @@ A static blog engine with markdown posts.
 - 2018-06-05: add pricing table
 - 2018-07-05: extend product grid
 - 2018-07-06: polish responsive layout
+- 2018-07-08: implement nav bar
