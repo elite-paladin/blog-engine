@@ -61,3 +61,4 @@ A static blog engine with markdown posts.
 - 2018-07-05: extend product grid
 - 2018-07-06: polish responsive layout
 - 2018-07-08: implement nav bar
+- 2018-07-11: simplify rss feed

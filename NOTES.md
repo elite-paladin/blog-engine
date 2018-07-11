@@ -42,3 +42,4 @@
 * Add pricing table
 * Polish responsive layout
 * Implement nav bar
+* Simplify RSS feed
