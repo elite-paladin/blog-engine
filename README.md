@@ -62,3 +62,4 @@ A static blog engine with markdown posts.
 - 2018-07-06: polish responsive layout
 - 2018-07-08: implement nav bar
 - 2018-07-11: simplify rss feed
+- 2018-09-12: simplify signup flow
