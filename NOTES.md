@@ -44,3 +44,4 @@
 * Implement nav bar
 * Simplify RSS feed
 * Update SEO meta tags
+* Add cart UI

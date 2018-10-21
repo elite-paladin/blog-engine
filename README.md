@@ -64,3 +64,4 @@ A static blog engine with markdown posts.
 - 2018-07-11: simplify rss feed
 - 2018-09-12: simplify signup flow
 - 2018-09-26: update seo meta tags
+- 2018-10-21: add cart ui
