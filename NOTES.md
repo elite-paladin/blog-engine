@@ -45,3 +45,4 @@
 * Simplify RSS feed
 * Update SEO meta tags
 * Add cart UI
+* Implement responsive layout
