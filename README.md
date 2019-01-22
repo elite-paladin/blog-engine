@@ -67,3 +67,4 @@ A static blog engine with markdown posts.
 - 2018-10-21: add cart ui
 - 2018-10-23: implement responsive layout
 - 2018-12-05: polish product grid
+- 2019-01-22: update hero section
