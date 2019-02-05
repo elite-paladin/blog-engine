@@ -47,3 +47,4 @@
 * Add cart UI
 * Implement responsive layout
 * Update hero section
+* Add SEO meta tags
