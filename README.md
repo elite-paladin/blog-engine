@@ -69,3 +69,4 @@ A static blog engine with markdown posts.
 - 2018-12-05: polish product grid
 - 2019-01-22: update hero section
 - 2019-02-05: add seo meta tags
+- 2019-02-08: update signup flow

@@ -48,3 +48,4 @@
 * Implement responsive layout
 * Update hero section
 * Add SEO meta tags
+* Update signup flow
