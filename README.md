@@ -70,3 +70,4 @@ A static blog engine with markdown posts.
 - 2019-01-22: update hero section
 - 2019-02-05: add seo meta tags
 - 2019-02-08: update signup flow
+- 2019-02-21: clean up cart ui
