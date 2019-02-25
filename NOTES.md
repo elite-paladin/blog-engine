@@ -49,3 +49,4 @@
 * Update hero section
 * Add SEO meta tags
 * Update signup flow
+* Document checkout page
