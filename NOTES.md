@@ -50,3 +50,4 @@
 * Add SEO meta tags
 * Update signup flow
 * Document checkout page
+* Extend cart UI

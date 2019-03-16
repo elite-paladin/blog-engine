@@ -72,3 +72,4 @@ A static blog engine with markdown posts.
 - 2019-02-08: update signup flow
 - 2019-02-21: clean up cart ui
 - 2019-02-25: document checkout page
+- 2019-03-16: extend cart ui
