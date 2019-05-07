@@ -52,3 +52,4 @@
 * Document checkout page
 * Extend cart UI
 * Rework blog post template
+* Update hero section

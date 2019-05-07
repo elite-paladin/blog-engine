@@ -75,3 +75,4 @@ A static blog engine with markdown posts.
 - 2019-03-16: extend cart ui
 - 2019-03-25: rework blog post template
 - 2019-04-24: document responsive layout
+- 2019-05-07: update hero section
