@@ -53,3 +53,4 @@
 * Extend cart UI
 * Rework blog post template
 * Update hero section
+* Refactor nav bar
