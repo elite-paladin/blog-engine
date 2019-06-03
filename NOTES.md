@@ -54,3 +54,4 @@
 * Rework blog post template
 * Update hero section
 * Refactor nav bar
+* Refactor pricing table
