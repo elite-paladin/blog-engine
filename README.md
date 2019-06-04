@@ -78,3 +78,4 @@ A static blog engine with markdown posts.
 - 2019-05-07: update hero section
 - 2019-05-20: refactor nav bar
 - 2019-06-03: refactor pricing table
+- 2019-06-04: simplify seo meta tags
