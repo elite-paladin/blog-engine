@@ -55,3 +55,4 @@
 * Update hero section
 * Refactor nav bar
 * Refactor pricing table
+* Handle RSS feed
