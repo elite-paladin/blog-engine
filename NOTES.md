@@ -56,3 +56,4 @@
 * Refactor nav bar
 * Refactor pricing table
 * Handle RSS feed
+* Tweak footer

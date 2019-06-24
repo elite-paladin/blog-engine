@@ -80,3 +80,4 @@ A static blog engine with markdown posts.
 - 2019-06-03: refactor pricing table
 - 2019-06-04: simplify seo meta tags
 - 2019-06-16: handle rss feed
+- 2019-06-24: tweak footer
