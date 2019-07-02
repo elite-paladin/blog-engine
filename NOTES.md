@@ -57,3 +57,4 @@
 * Refactor pricing table
 * Handle RSS feed
 * Tweak footer
+* Fix contact form
