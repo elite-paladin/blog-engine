@@ -58,3 +58,4 @@
 * Handle RSS feed
 * Tweak footer
 * Fix contact form
+* Clean up blog post template
