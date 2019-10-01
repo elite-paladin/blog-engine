@@ -59,3 +59,4 @@
 * Tweak footer
 * Fix contact form
 * Clean up blog post template
+* Polish checkout page
