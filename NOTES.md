@@ -60,3 +60,4 @@
 * Fix contact form
 * Clean up blog post template
 * Polish checkout page
+* Clean up nav bar

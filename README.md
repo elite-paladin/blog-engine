@@ -85,3 +85,4 @@ A static blog engine with markdown posts.
 - 2019-07-27: clean up blog post template
 - 2019-08-09: clean up blog post template
 - 2019-10-01: polish checkout page
+- 2019-10-02: clean up nav bar
