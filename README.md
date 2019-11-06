@@ -87,3 +87,4 @@ A static blog engine with markdown posts.
 - 2019-10-01: polish checkout page
 - 2019-10-02: clean up nav bar
 - 2019-11-01: tweak footer
+- 2019-11-06: polish responsive layout
