@@ -63,3 +63,4 @@
 * Clean up nav bar
 * Polish responsive layout
 * Tweak SEO meta tags
+* Document hero section

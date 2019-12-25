@@ -89,3 +89,4 @@ A static blog engine with markdown posts.
 - 2019-11-01: tweak footer
 - 2019-11-06: polish responsive layout
 - 2019-12-24: tweak seo meta tags
+- 2019-12-25: document hero section
