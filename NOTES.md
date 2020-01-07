@@ -64,3 +64,4 @@
 * Polish responsive layout
 * Tweak SEO meta tags
 * Document hero section
+* Polish checkout page
