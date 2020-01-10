@@ -65,3 +65,4 @@
 * Tweak SEO meta tags
 * Document hero section
 * Polish checkout page
+* Improve contact form

@@ -92,3 +92,4 @@ A static blog engine with markdown posts.
 - 2019-12-25: document hero section
 - 2020-01-02: improve pricing table
 - 2020-01-07: polish checkout page
+- 2020-01-10: improve contact form
