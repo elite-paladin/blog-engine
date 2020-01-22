@@ -66,3 +66,4 @@
 * Document hero section
 * Polish checkout page
 * Improve contact form
+* Simplify responsive layout
