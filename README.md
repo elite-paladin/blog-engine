@@ -94,3 +94,4 @@ A static blog engine with markdown posts.
 - 2020-01-07: polish checkout page
 - 2020-01-10: improve contact form
 - 2020-01-22: simplify responsive layout
+- 2020-03-08: implement cart ui
