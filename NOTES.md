@@ -67,3 +67,4 @@
 * Polish checkout page
 * Improve contact form
 * Simplify responsive layout
+* Simplify cart UI
