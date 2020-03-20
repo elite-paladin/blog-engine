@@ -68,3 +68,4 @@
 * Improve contact form
 * Simplify responsive layout
 * Simplify cart UI
+* Polish signup flow
