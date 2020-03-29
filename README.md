@@ -97,3 +97,4 @@ A static blog engine with markdown posts.
 - 2020-03-08: implement cart ui
 - 2020-03-18: simplify cart ui
 - 2020-03-19: polish signup flow
+- 2020-03-28: add blog post template
