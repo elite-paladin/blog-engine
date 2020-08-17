@@ -71,3 +71,4 @@
 * Polish signup flow
 * Add blog post template
 * Implement blog post template
+* Improve footer
