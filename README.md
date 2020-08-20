@@ -101,3 +101,4 @@ A static blog engine with markdown posts.
 - 2020-07-11: polish dark mode
 - 2020-08-15: implement blog post template
 - 2020-08-17: improve footer
+- 2020-08-20: handle footer
