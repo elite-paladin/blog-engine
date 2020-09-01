@@ -73,3 +73,4 @@
 * Implement blog post template
 * Improve footer
 * Handle footer
+* Clean up contact form
