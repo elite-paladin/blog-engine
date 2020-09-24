@@ -74,3 +74,4 @@
 * Improve footer
 * Handle footer
 * Clean up contact form
+* Update footer
