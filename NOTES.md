@@ -75,3 +75,4 @@
 * Handle footer
 * Clean up contact form
 * Update footer
+* Clean up blog post template

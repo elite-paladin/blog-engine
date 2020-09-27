@@ -105,3 +105,4 @@ A static blog engine with markdown posts.
 - 2020-08-23: tweak contact form
 - 2020-09-01: clean up contact form
 - 2020-09-24: update footer
+- 2020-09-27: clean up blog post template
