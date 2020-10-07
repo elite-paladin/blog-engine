@@ -76,3 +76,4 @@
 * Clean up contact form
 * Update footer
 * Clean up blog post template
+* Simplify hero section

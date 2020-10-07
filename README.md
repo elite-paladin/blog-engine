@@ -107,3 +107,4 @@ A static blog engine with markdown posts.
 - 2020-09-24: update footer
 - 2020-09-27: clean up blog post template
 - 2020-10-04: rework responsive layout
+- 2020-10-07: simplify hero section
