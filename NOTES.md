@@ -77,3 +77,4 @@
 * Update footer
 * Clean up blog post template
 * Simplify hero section
+* Add RSS feed
