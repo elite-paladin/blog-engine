@@ -78,3 +78,4 @@
 * Clean up blog post template
 * Simplify hero section
 * Add RSS feed
+* Simplify checkout page
