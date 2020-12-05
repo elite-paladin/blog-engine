@@ -79,3 +79,4 @@
 * Simplify hero section
 * Add RSS feed
 * Simplify checkout page
+* Implement contact form

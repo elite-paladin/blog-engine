@@ -111,3 +111,4 @@ A static blog engine with markdown posts.
 - 2020-10-16: add rss feed
 - 2020-11-22: simplify checkout page
 - 2020-11-28: rework hero section
+- 2020-12-05: implement contact form
