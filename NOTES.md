@@ -80,3 +80,4 @@
 * Add RSS feed
 * Simplify checkout page
 * Implement contact form
+* Update blog post template
