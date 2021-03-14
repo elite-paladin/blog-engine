@@ -113,3 +113,4 @@ A static blog engine with markdown posts.
 - 2020-11-28: rework hero section
 - 2020-12-05: implement contact form
 - 2021-02-06: update blog post template
+- 2021-03-13: improve product grid

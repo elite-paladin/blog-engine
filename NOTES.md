@@ -81,3 +81,4 @@
 * Simplify checkout page
 * Implement contact form
 * Update blog post template
+* Improve product grid
