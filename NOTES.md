@@ -82,3 +82,4 @@
 * Implement contact form
 * Update blog post template
 * Improve product grid
+* Handle hero section
