@@ -116,3 +116,4 @@ A static blog engine with markdown posts.
 - 2021-03-13: improve product grid
 - 2021-03-22: update responsive layout
 - 2021-04-01: handle hero section
+- 2021-04-14: refactor checkout page
