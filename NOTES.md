@@ -84,3 +84,4 @@
 * Improve product grid
 * Handle hero section
 * Refactor checkout page
+* Clean up checkout page
