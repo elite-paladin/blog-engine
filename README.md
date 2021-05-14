@@ -118,3 +118,4 @@ A static blog engine with markdown posts.
 - 2021-04-01: handle hero section
 - 2021-04-14: refactor checkout page
 - 2021-05-04: clean up checkout page
+- 2021-05-14: document contact form
