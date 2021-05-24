@@ -85,3 +85,4 @@
 * Handle hero section
 * Refactor checkout page
 * Clean up checkout page
+* Wire up dark mode
