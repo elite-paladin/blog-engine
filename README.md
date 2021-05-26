@@ -120,3 +120,4 @@ A static blog engine with markdown posts.
 - 2021-05-04: clean up checkout page
 - 2021-05-14: document contact form
 - 2021-05-24: wire up dark mode
+- 2021-05-26: wire up blog post template

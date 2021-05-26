@@ -86,3 +86,4 @@
 * Refactor checkout page
 * Clean up checkout page
 * Wire up dark mode
+* Wire up blog post template
