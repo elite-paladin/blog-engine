@@ -122,3 +122,4 @@ A static blog engine with markdown posts.
 - 2021-05-24: wire up dark mode
 - 2021-05-26: wire up blog post template
 - 2021-07-08: implement cart ui
+- 2021-07-16: add blog post template
