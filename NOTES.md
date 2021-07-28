@@ -89,3 +89,4 @@
 * Wire up blog post template
 * Implement cart UI
 * Rework footer
+* Refactor responsive layout

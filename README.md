@@ -124,3 +124,4 @@ A static blog engine with markdown posts.
 - 2021-07-08: implement cart ui
 - 2021-07-16: add blog post template
 - 2021-07-26: rework footer
+- 2021-07-28: refactor responsive layout
