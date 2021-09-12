@@ -90,3 +90,4 @@
 * Implement cart UI
 * Rework footer
 * Refactor responsive layout
+* Implement pricing table
