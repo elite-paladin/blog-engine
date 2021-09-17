@@ -126,3 +126,4 @@ A static blog engine with markdown posts.
 - 2021-07-26: rework footer
 - 2021-07-28: refactor responsive layout
 - 2021-09-12: implement pricing table
+- 2021-09-17: improve hero section
