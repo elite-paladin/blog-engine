@@ -92,3 +92,4 @@
 * Refactor responsive layout
 * Implement pricing table
 * Fix product grid
+* Simplify product grid
