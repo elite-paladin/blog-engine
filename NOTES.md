@@ -93,3 +93,4 @@
 * Implement pricing table
 * Fix product grid
 * Simplify product grid
+* Clean up signup flow

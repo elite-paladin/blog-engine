@@ -129,3 +129,4 @@ A static blog engine with markdown posts.
 - 2021-09-17: improve hero section
 - 2021-09-19: fix product grid
 - 2021-09-24: simplify product grid
+- 2021-10-07: clean up signup flow
