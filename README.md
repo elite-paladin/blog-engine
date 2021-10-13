@@ -131,3 +131,4 @@ A static blog engine with markdown posts.
 - 2021-09-24: simplify product grid
 - 2021-10-07: clean up signup flow
 - 2021-10-11: improve hero section
+- 2021-10-13: improve dark mode
