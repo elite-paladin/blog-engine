@@ -95,3 +95,4 @@
 * Simplify product grid
 * Clean up signup flow
 * Improve dark mode
+* Handle signup flow
