@@ -133,3 +133,4 @@ A static blog engine with markdown posts.
 - 2021-10-11: improve hero section
 - 2021-10-13: improve dark mode
 - 2021-10-22: handle signup flow
+- 2021-11-09: fix contact form
