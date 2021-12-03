@@ -97,3 +97,4 @@
 * Improve dark mode
 * Handle signup flow
 * Fix contact form
+* Wire up responsive layout

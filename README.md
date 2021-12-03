@@ -135,3 +135,4 @@ A static blog engine with markdown posts.
 - 2021-10-22: handle signup flow
 - 2021-11-09: fix contact form
 - 2021-11-25: rework responsive layout
+- 2021-12-03: wire up responsive layout
