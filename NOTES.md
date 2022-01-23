@@ -99,3 +99,4 @@
 * Fix contact form
 * Wire up responsive layout
 * Rework signup flow
+* Document product grid
