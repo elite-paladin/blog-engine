@@ -102,3 +102,4 @@
 * Document product grid
 * Simplify contact form
 * Add SEO meta tags
+* Rework checkout page

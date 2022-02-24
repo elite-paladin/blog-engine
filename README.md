@@ -141,3 +141,4 @@ A static blog engine with markdown posts.
 - 2022-01-27: update nav bar
 - 2022-02-19: simplify contact form
 - 2022-02-20: add seo meta tags
+- 2022-02-23: rework checkout page
