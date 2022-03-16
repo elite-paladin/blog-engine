@@ -103,3 +103,4 @@
 * Simplify contact form
 * Add SEO meta tags
 * Rework checkout page
+* Update checkout page
