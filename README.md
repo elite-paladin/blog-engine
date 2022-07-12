@@ -144,3 +144,4 @@ A static blog engine with markdown posts.
 - 2022-02-23: rework checkout page
 - 2022-03-14: simplify signup flow
 - 2022-03-16: update checkout page
+- 2022-07-12: extend rss feed

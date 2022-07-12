@@ -104,3 +104,4 @@
 * Add SEO meta tags
 * Rework checkout page
 * Update checkout page
+* Extend RSS feed
