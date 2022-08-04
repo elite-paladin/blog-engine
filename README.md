@@ -147,3 +147,4 @@ A static blog engine with markdown posts.
 - 2022-07-12: extend rss feed
 - 2022-07-13: extend rss feed
 - 2022-07-18: fix dark mode
+- 2022-08-04: rework dark mode

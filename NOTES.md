@@ -106,3 +106,4 @@
 * Update checkout page
 * Extend RSS feed
 * Extend RSS feed
+* Rework dark mode
