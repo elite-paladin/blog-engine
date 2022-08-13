@@ -107,3 +107,4 @@
 * Extend RSS feed
 * Extend RSS feed
 * Rework dark mode
+* Clean up dark mode
