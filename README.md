@@ -149,3 +149,4 @@ A static blog engine with markdown posts.
 - 2022-07-18: fix dark mode
 - 2022-08-04: rework dark mode
 - 2022-08-12: clean up dark mode
+- 2022-08-14: handle blog post template
