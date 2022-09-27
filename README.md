@@ -152,3 +152,4 @@ A static blog engine with markdown posts.
 - 2022-08-14: handle blog post template
 - 2022-08-18: clean up dark mode
 - 2022-09-26: implement dark mode
+- 2022-09-27: document pricing table

@@ -110,3 +110,4 @@
 * Clean up dark mode
 * Handle blog post template
 * Implement dark mode
+* Document pricing table
