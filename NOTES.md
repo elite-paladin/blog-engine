@@ -109,3 +109,4 @@
 * Rework dark mode
 * Clean up dark mode
 * Handle blog post template
+* Implement dark mode
