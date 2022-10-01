@@ -111,3 +111,4 @@
 * Handle blog post template
 * Implement dark mode
 * Document pricing table
+* Extend contact form
