@@ -154,3 +154,4 @@ A static blog engine with markdown posts.
 - 2022-09-26: implement dark mode
 - 2022-09-27: document pricing table
 - 2022-10-01: extend contact form
+- 2022-10-04: add contact form
