@@ -112,3 +112,4 @@
 * Implement dark mode
 * Document pricing table
 * Extend contact form
+* Improve SEO meta tags
