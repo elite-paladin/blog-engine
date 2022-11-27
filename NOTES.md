@@ -113,3 +113,4 @@
 * Document pricing table
 * Extend contact form
 * Improve SEO meta tags
+* Clean up dark mode
