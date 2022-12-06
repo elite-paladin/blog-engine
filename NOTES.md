@@ -114,3 +114,4 @@
 * Extend contact form
 * Improve SEO meta tags
 * Clean up dark mode
+* Document responsive layout
