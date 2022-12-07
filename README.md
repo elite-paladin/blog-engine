@@ -158,3 +158,4 @@ A static blog engine with markdown posts.
 - 2022-11-22: improve seo meta tags
 - 2022-11-27: clean up dark mode
 - 2022-12-06: document responsive layout
+- 2022-12-07: improve dark mode
