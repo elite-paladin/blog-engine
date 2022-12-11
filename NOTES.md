@@ -115,3 +115,4 @@
 * Improve SEO meta tags
 * Clean up dark mode
 * Document responsive layout
+* Wire up cart UI
