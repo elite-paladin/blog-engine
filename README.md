@@ -160,3 +160,4 @@ A static blog engine with markdown posts.
 - 2022-12-06: document responsive layout
 - 2022-12-07: improve dark mode
 - 2022-12-11: wire up cart ui
+- 2023-01-17: tweak product grid

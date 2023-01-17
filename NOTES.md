@@ -116,3 +116,4 @@
 * Clean up dark mode
 * Document responsive layout
 * Wire up cart UI
+* Tweak product grid
