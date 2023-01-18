@@ -117,3 +117,4 @@
 * Document responsive layout
 * Wire up cart UI
 * Tweak product grid
+* Handle footer
