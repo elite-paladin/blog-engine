@@ -162,3 +162,4 @@ A static blog engine with markdown posts.
 - 2022-12-11: wire up cart ui
 - 2023-01-17: tweak product grid
 - 2023-01-18: handle footer
+- 2023-02-11: update pricing table
