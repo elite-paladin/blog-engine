@@ -118,3 +118,4 @@
 * Wire up cart UI
 * Tweak product grid
 * Handle footer
+* Handle RSS feed
