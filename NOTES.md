@@ -119,3 +119,4 @@
 * Tweak product grid
 * Handle footer
 * Handle RSS feed
+* Tweak RSS feed

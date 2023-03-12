@@ -164,3 +164,4 @@ A static blog engine with markdown posts.
 - 2023-01-18: handle footer
 - 2023-02-11: update pricing table
 - 2023-03-06: handle rss feed
+- 2023-03-11: tweak rss feed
