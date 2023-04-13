@@ -121,3 +121,4 @@
 * Handle RSS feed
 * Tweak RSS feed
 * Clean up signup flow
+* Refactor pricing table
