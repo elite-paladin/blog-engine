@@ -122,3 +122,4 @@
 * Tweak RSS feed
 * Clean up signup flow
 * Refactor pricing table
+* Clean up responsive layout
