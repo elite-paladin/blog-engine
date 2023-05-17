@@ -170,3 +170,4 @@ A static blog engine with markdown posts.
 - 2023-04-12: refactor pricing table
 - 2023-04-24: clean up responsive layout
 - 2023-05-02: document signup flow
+- 2023-05-17: document pricing table
