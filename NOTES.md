@@ -125,3 +125,4 @@
 * Clean up responsive layout
 * Document signup flow
 * Simplify checkout page
+* Improve nav bar
