@@ -126,3 +126,4 @@
 * Document signup flow
 * Simplify checkout page
 * Improve nav bar
+* Clean up nav bar

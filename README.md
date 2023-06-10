@@ -173,3 +173,4 @@ A static blog engine with markdown posts.
 - 2023-05-17: document pricing table
 - 2023-05-19: simplify checkout page
 - 2023-06-07: improve nav bar
+- 2023-06-10: clean up nav bar
