@@ -174,3 +174,4 @@ A static blog engine with markdown posts.
 - 2023-05-19: simplify checkout page
 - 2023-06-07: improve nav bar
 - 2023-06-10: clean up nav bar
+- 2023-07-03: refactor product grid
