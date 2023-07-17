@@ -127,3 +127,4 @@
 * Simplify checkout page
 * Improve nav bar
 * Clean up nav bar
+* Wire up footer
