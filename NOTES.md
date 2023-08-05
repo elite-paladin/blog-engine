@@ -128,3 +128,4 @@
 * Improve nav bar
 * Clean up nav bar
 * Wire up footer
+* Wire up nav bar

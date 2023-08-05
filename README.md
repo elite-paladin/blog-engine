@@ -176,3 +176,4 @@ A static blog engine with markdown posts.
 - 2023-06-10: clean up nav bar
 - 2023-07-03: refactor product grid
 - 2023-07-17: wire up footer
+- 2023-08-05: wire up nav bar
