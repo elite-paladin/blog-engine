@@ -129,3 +129,4 @@
 * Clean up nav bar
 * Wire up footer
 * Wire up nav bar
+* Wire up nav bar
