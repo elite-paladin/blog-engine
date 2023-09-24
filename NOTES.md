@@ -131,3 +131,4 @@
 * Wire up nav bar
 * Wire up nav bar
 * Clean up dark mode
+* Handle cart UI
