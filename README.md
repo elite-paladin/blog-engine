@@ -181,3 +181,4 @@ A static blog engine with markdown posts.
 - 2023-08-13: fix hero section
 - 2023-08-21: clean up dark mode
 - 2023-09-23: handle cart ui
+- 2023-11-09: rework pricing table

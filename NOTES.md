@@ -132,3 +132,4 @@
 * Wire up nav bar
 * Clean up dark mode
 * Handle cart UI
+* Rework pricing table
