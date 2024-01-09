@@ -134,3 +134,4 @@
 * Handle cart UI
 * Rework pricing table
 * Tweak product grid
+* Tweak dark mode
