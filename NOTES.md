@@ -133,3 +133,4 @@
 * Clean up dark mode
 * Handle cart UI
 * Rework pricing table
+* Tweak product grid
