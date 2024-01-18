@@ -185,3 +185,4 @@ A static blog engine with markdown posts.
 - 2023-11-15: update pricing table
 - 2024-01-08: tweak product grid
 - 2024-01-09: tweak dark mode
+- 2024-01-18: wire up contact form

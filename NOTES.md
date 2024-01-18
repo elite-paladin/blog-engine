@@ -135,3 +135,4 @@
 * Rework pricing table
 * Tweak product grid
 * Tweak dark mode
+* Wire up contact form
