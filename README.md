@@ -187,3 +187,4 @@ A static blog engine with markdown posts.
 - 2024-01-09: tweak dark mode
 - 2024-01-18: wire up contact form
 - 2024-01-22: tweak blog post template
+- 2024-02-04: wire up blog post template
