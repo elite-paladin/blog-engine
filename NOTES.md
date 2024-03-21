@@ -137,3 +137,4 @@
 * Tweak dark mode
 * Wire up contact form
 * Wire up blog post template
+* Add checkout page
