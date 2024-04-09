@@ -138,3 +138,4 @@
 * Wire up contact form
 * Wire up blog post template
 * Add checkout page
+* Improve blog post template
