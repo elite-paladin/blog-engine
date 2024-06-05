@@ -139,3 +139,4 @@
 * Wire up blog post template
 * Add checkout page
 * Improve blog post template
+* Improve signup flow

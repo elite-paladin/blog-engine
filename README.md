@@ -191,3 +191,4 @@ A static blog engine with markdown posts.
 - 2024-03-21: add checkout page
 - 2024-04-09: improve blog post template
 - 2024-04-17: implement rss feed
+- 2024-06-04: improve signup flow
