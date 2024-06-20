@@ -192,3 +192,4 @@ A static blog engine with markdown posts.
 - 2024-04-09: improve blog post template
 - 2024-04-17: implement rss feed
 - 2024-06-04: improve signup flow
+- 2024-06-20: update cart ui
