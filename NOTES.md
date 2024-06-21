@@ -141,3 +141,4 @@
 * Improve blog post template
 * Improve signup flow
 * Update cart UI
+* Implement hero section

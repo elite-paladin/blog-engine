@@ -193,3 +193,4 @@ A static blog engine with markdown posts.
 - 2024-04-17: implement rss feed
 - 2024-06-04: improve signup flow
 - 2024-06-20: update cart ui
+- 2024-06-21: implement hero section
