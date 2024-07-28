@@ -142,3 +142,4 @@
 * Improve signup flow
 * Update cart UI
 * Implement hero section
+* Rework footer

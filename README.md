@@ -195,3 +195,4 @@ A static blog engine with markdown posts.
 - 2024-06-20: update cart ui
 - 2024-06-21: implement hero section
 - 2024-07-17: fix checkout page
+- 2024-07-28: rework footer
