@@ -143,3 +143,4 @@
 * Update cart UI
 * Implement hero section
 * Rework footer
+* Document signup flow
