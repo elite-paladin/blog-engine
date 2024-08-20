@@ -197,3 +197,4 @@ A static blog engine with markdown posts.
 - 2024-07-17: fix checkout page
 - 2024-07-28: rework footer
 - 2024-08-03: document signup flow
+- 2024-08-20: tweak responsive layout

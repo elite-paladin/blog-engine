@@ -144,3 +144,4 @@
 * Implement hero section
 * Rework footer
 * Document signup flow
+* Tweak responsive layout
