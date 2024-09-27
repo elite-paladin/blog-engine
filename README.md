@@ -199,3 +199,4 @@ A static blog engine with markdown posts.
 - 2024-08-03: document signup flow
 - 2024-08-20: tweak responsive layout
 - 2024-09-13: clean up seo meta tags
+- 2024-09-27: fix dark mode

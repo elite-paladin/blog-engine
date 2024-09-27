@@ -145,3 +145,4 @@
 * Rework footer
 * Document signup flow
 * Tweak responsive layout
+* Fix dark mode
