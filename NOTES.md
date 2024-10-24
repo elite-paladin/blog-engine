@@ -147,3 +147,4 @@
 * Tweak responsive layout
 * Fix dark mode
 * Tweak RSS feed
+* Extend responsive layout
