@@ -148,3 +148,4 @@
 * Fix dark mode
 * Tweak RSS feed
 * Extend responsive layout
+* Document footer
