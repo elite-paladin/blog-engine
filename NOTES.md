@@ -149,3 +149,4 @@
 * Tweak RSS feed
 * Extend responsive layout
 * Document footer
+* Update responsive layout
