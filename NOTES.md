@@ -150,3 +150,4 @@
 * Extend responsive layout
 * Document footer
 * Update responsive layout
+* Improve blog post template

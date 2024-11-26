@@ -205,3 +205,4 @@ A static blog engine with markdown posts.
 - 2024-11-04: add cart ui
 - 2024-11-11: document footer
 - 2024-11-25: update responsive layout
+- 2024-11-26: improve blog post template
