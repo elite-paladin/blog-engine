@@ -151,3 +151,4 @@
 * Document footer
 * Update responsive layout
 * Improve blog post template
+* Add signup flow
