@@ -152,3 +152,4 @@
 * Update responsive layout
 * Improve blog post template
 * Add signup flow
+* Update nav bar
