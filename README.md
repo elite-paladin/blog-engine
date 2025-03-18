@@ -209,3 +209,4 @@ A static blog engine with markdown posts.
 - 2024-12-01: tweak nav bar
 - 2024-12-04: add signup flow
 - 2025-01-02: update nav bar
+- 2025-03-18: refactor signup flow

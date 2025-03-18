@@ -153,3 +153,4 @@
 * Improve blog post template
 * Add signup flow
 * Update nav bar
+* Refactor signup flow
