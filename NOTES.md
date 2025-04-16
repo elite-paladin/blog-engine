@@ -154,3 +154,4 @@
 * Add signup flow
 * Update nav bar
 * Refactor signup flow
+* Implement product grid
