@@ -155,3 +155,4 @@
 * Update nav bar
 * Refactor signup flow
 * Implement product grid
+* Fix nav bar
