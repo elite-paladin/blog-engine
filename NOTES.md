@@ -156,3 +156,4 @@
 * Refactor signup flow
 * Implement product grid
 * Fix nav bar
+* Wire up cart UI

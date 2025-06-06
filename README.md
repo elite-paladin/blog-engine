@@ -213,3 +213,4 @@ A static blog engine with markdown posts.
 - 2025-03-28: refactor checkout page
 - 2025-04-16: implement product grid
 - 2025-05-10: fix nav bar
+- 2025-06-06: wire up cart ui
