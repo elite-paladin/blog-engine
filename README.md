@@ -216,3 +216,4 @@ A static blog engine with markdown posts.
 - 2025-06-06: wire up cart ui
 - 2025-06-07: rework seo meta tags
 - 2025-06-21: simplify cart ui
+- 2025-07-03: simplify nav bar

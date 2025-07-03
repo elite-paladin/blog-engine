@@ -158,3 +158,4 @@
 * Fix nav bar
 * Wire up cart UI
 * Simplify cart UI
+* Simplify nav bar
