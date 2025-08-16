@@ -159,3 +159,4 @@
 * Wire up cart UI
 * Simplify cart UI
 * Simplify nav bar
+* Simplify hero section
