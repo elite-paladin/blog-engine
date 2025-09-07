@@ -160,3 +160,4 @@
 * Simplify cart UI
 * Simplify nav bar
 * Simplify hero section
+* Simplify contact form
