@@ -220,3 +220,4 @@ A static blog engine with markdown posts.
 - 2025-08-16: simplify hero section
 - 2025-08-25: implement dark mode
 - 2025-09-07: simplify contact form
+- 2025-09-22: implement responsive layout
