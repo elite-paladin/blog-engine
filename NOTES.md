@@ -162,3 +162,4 @@
 * Simplify hero section
 * Simplify contact form
 * Implement responsive layout
+* Wire up dark mode
