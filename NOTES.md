@@ -163,3 +163,4 @@
 * Simplify contact form
 * Implement responsive layout
 * Wire up dark mode
+* Improve pricing table
