@@ -224,3 +224,4 @@ A static blog engine with markdown posts.
 - 2025-10-12: wire up dark mode
 - 2025-10-18: implement pricing table
 - 2025-11-01: improve pricing table
+- 2025-11-04: simplify hero section
