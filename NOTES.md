@@ -165,3 +165,4 @@
 * Wire up dark mode
 * Improve pricing table
 * Simplify hero section
+* Fix blog post template

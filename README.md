@@ -225,3 +225,4 @@ A static blog engine with markdown posts.
 - 2025-10-18: implement pricing table
 - 2025-11-01: improve pricing table
 - 2025-11-04: simplify hero section
+- 2025-12-05: fix blog post template
